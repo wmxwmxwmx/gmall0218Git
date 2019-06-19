@@ -1,2 +1,6 @@
-11111111111111111111111111111
-qqwyul
+public class test{
+
+    public void test(){
+        System.out.println("Hello");
+    }
+}
